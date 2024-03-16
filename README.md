@@ -1,10 +1,6 @@
 # Coreset-Algorithm-Implementation
 This repository contains Python implementations of coreset algorithms, including Uniform Sampling and Weighted K-Means++, along with an advanced task on image segmentation using coreset-based techniques.
 
-# Weighted K-Means++ Clustering
-
-This repository contains Python implementations of the weighted K-Means++ clustering algorithm. The weighted K-Means++ algorithm is an extension of the classical K-Means clustering algorithm that accounts for sample weights during centroid initialization. The provided implementations include both the main algorithm and the computational components for initializing cluster centroids.
-
 ## Usage
 
 To use the weighted K-Means++ clustering algorithm in your Python project, follow these steps:
@@ -14,10 +10,10 @@ To use the weighted K-Means++ clustering algorithm in your Python project, follo
    ```bash
    git clone https://github.com/vaibhavchvn14/weighted-kmeansplusplus.git
 ### Repository Name:
-Weighted K-Means++ Clustering
+Coreset-Algorithm-Implementation
 
 ### Description:
-This repository contains Python implementations of the weighted K-Means++ clustering algorithm. The weighted K-Means++ algorithm is an extension of the classical K-Means clustering algorithm that accounts for sample weights during centroid initialization. The provided implementations include both the main algorithm and the computational components for initializing cluster centroids.
+This repository contains Python implementations of the Coreset Algorithm. The weighted K-Means++ algorithm is an extension of the classical K-Means clustering algorithm that accounts for sample weights during centroid initialization. The provided implementations include both the main algorithm and the computational components for initializing cluster centroids.
 
 ### README.md:
 ```markdown
@@ -61,7 +57,7 @@ To use the weighted K-Means++ clustering algorithm in your Python project, follo
 
 ## Contributor
 
-- [Vaibhav Chauhan](https://github.com/vaibhavchvn14)
+- [Vaibhav Chauhan](https://github.com/vaibhavchauhantech)
 
 ## License
 
