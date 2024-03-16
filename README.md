@@ -49,10 +49,11 @@ To use the weighted K-Means++ clustering algorithm in your Python project, follo
 
 ## File Descriptions
 
-- `final.ipynb`: Main Jupyter Notebook containing the implementation of coreset algorithms and image segmentation.
+- `final.ipynb`: Main Jupyter Notebook containing the implementation of coreset algorithms.
 - `skeleton.py`: Main Python script containing the skeleton code for the weighted K-Means++ clustering algorithm.
 - `Uniform_Sampling.py`: Python script containing functions for uniform sampling of data points.
 - `wkpp.py`: Python script containing the implementation of the weighted K-Means++ clustering algorithm.
+- `image_segmentation.ipynb`: Main Jupyter Notebook containing the implementation of image segmentation.
 - `fruits.jpg`: Image file used for image segmentation demonstration.
 
 ## Contributor
