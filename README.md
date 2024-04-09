@@ -8,7 +8,7 @@ To use the weighted K-Means++ clustering algorithm in your Python project, follo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/vaibhavchvn14/weighted-kmeansplusplus.git
+   git clone https://github.com/vaibhavchauhantech/Coreset-Algorithm-Implementation.git
 ### Repository Name:
 Coreset-Algorithm-Implementation
 
@@ -28,7 +28,7 @@ To use the weighted K-Means++ clustering algorithm in your Python project, follo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/vaibhavchvn14/weighted-kmeansplusplus.git
+   git clone https://github.com/vaibhavchauhantech/Coreset-Algorithm-Implementation.git
    ```
 
 2. Copy the necessary Python files (`skeleton.py`, `Uniform_Sampling.py`, `wkpp.py`) into your project directory.
